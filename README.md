@@ -10,7 +10,7 @@ Run `git clone https://github.com/siwatjames/case-study-leaderboard.git` to clon
 
 ##### Arguments:
 - `user_id` string : User id
-- `number_of_users_to_print` int: _optional _ the number of users to print. Default 10.
+- `number_of_users_to_print` int: _optional_ the number of users to print. Default 10.
 
 ##### Notes:
 There are users with the same number of bananas. The ranking system impletemented is similar to MySql RANK function referenced [here](https://www.sqlservertutorial.net/sql-server-window-functions/sql-server-rank-function/).
